@@ -1,4 +1,4 @@
-# Record rtssp stream video use gpu
+# Record rtsp stream video use gpu H265
 ```
 python main.py --input [link_rtsp] --output [file_video_output]
 ```
